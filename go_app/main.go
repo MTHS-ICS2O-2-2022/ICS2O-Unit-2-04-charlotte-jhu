@@ -24,7 +24,7 @@ func main() {
 	// process
 	area := (base * height) / 2
 
-	//output
+	// output
 	fmt.Println()
 	fmt.Println("The area is", area, "cm².")
 	fmt.Println("\nDone.")
